@@ -71,7 +71,7 @@ body {
 /*header section*/
 .hero_area {
   height: 100vh;
-  background-image: url(../images/hero-bg.jpg);
+  background-image: url("https://www.teachertoolkit.co.uk/wp-content/uploads/2020/06/Screenshot-2020-06-22-at-13.39.11.png");
   background-size: cover;
 }
 
